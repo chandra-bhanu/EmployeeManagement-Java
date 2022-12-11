@@ -19,6 +19,14 @@ javac EmployeeManagement.java
 
 2- on line 49 I am calculating salary by taking 30 days, you can change it if needed
 
+--------------------------------------------------------------------------
+
+If everything goes right below menu will be visible
+![image](https://user-images.githubusercontent.com/7919757/206890910-a1cfb58c-bab6-471a-ba02-3039875078cb.png)
+
+
+Use it to do the actions, while editing also menu will come for specific fields, so if you increment attendance salaries also will be calculated and will update.
+
 
 	
 
